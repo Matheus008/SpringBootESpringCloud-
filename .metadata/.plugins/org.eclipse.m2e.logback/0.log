@@ -14516,3 +14516,46 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2023-07-01 17:46:31,726 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2023-07-01 17:46:31,729 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-07-01 17:46:31,729 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-api-gateway-zuul\src\test\resources
+2023-07-02 10:49:28,558 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-07-02 11:07:30,208 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:07:30,215 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:07:30,223 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-07-02 11:07:30,227 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:07:30,227 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-worker\src\test\resources
+2023-07-02 11:08:33,460 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-07-02 11:08:33,484 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-07-02 11:08:33,514 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6cb7046e{/help,null,AVAILABLE}
+2023-07-02 11:08:33,538 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5db8c3f2{HTTP/1.1, (http/1.1)}{127.0.0.1:53508}
+2023-07-02 11:08:33,547 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@3100dbde{STARTING}[10.0.13,sto=0] @1165640ms
+2023-07-02 11:08:34,390 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:08:34,394 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:08:34,396 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-07-02 11:08:34,400 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:08:34,400 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-worker\src\test\resources
+2023-07-02 11:10:05,780 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:hr-user:0.0.1-SNAPSHOT @ C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-user\pom.xml.
+2023-07-02 11:10:07,009 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:07,010 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:07,024 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:07,027 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:07,027 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-user\src\test\resources
+2023-07-02 11:10:07,136 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-02 11:10:07,390 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:hr-user:0.0.1-SNAPSHOT @ C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-user\pom.xml.
+2023-07-02 11:10:08,414 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-user/src/main/java
+2023-07-02 11:10:08,415 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-user/src/main/resources
+2023-07-02 11:10:08,415 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hr-user/src/main/resources
+2023-07-02 11:10:08,416 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hr-user/src/test/java
+2023-07-02 11:10:09,002 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2023-07-02 11:10:09,365 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:09,366 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:09,376 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:09,392 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:09,392 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-user\src\test\resources
+2023-07-02 11:10:44,534 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:44,535 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:44,537 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:10:44,542 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:10:44,543 [Worker-23: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Matheus\Documents\Java\SpringBoot e SprigCloud\hr-user\src\test\resources
+2023-07-02 11:11:08,227 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-02 11:11:08,227 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-02 11:11:08,227 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-07-02 11:11:08,233 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
