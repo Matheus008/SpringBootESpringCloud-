@@ -1,0 +1,5 @@
+package com.udemy.hroauth.resources;
+
+public class UserResource {
+
+}

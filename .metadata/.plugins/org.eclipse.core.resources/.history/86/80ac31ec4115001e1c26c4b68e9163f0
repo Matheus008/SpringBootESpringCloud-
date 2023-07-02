@@ -1,0 +1,5 @@
+package com.udemy.hruser.config;
+
+public class AppConfig {
+
+}

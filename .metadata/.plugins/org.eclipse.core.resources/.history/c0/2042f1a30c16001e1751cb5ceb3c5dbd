@@ -1,0 +1,5 @@
+package com.udemy.hroauth.entities;
+
+public class Role {
+
+}
