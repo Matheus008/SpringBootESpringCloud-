@@ -1,5 +1,0 @@
-package com.udemy.hroauth.feignclients;
-
-public class UserFeignClient {
-
-}
